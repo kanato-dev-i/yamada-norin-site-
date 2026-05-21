@@ -23,7 +23,7 @@ export default function FirstTimePage() {
           <SectionTitle
             eyebrow="FIRST TIME"
             title="はじめての方へ"
-            description="山口こめ日和のお米は、毎日の食卓に自然になじむ味わいを目指しています。迷ったら、食べる量と使う場面から選んでください。"
+            description="阿東の山田農林のお米は、毎日の食卓に自然になじむ味わいを目指しています。迷ったら、食べる量と使う場面から選んでください。"
           />
           <div className="mt-10 grid gap-4 md:grid-cols-2">
             {choices.map(([label, name, description]) => (
