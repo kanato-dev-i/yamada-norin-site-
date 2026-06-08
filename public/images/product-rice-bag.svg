@@ -1,0 +1,9 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rice bag placeholder">
+  <rect width="900" height="675" fill="#F8F4EA"/>
+  <rect x="274" y="98" width="352" height="490" rx="18" fill="#FFFDF7" stroke="#D8C9AA" stroke-width="8"/>
+  <path d="M312 142h276M312 540h276" stroke="#E6D6A8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M450 194c-46 44-68 96-68 158 0 66 34 118 68 118s68-52 68-118c0-62-22-114-68-158Z" fill="#FFF7DA" stroke="#667B48" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M450 236c-22 34-33 71-33 112 0 39 14 70 33 88 19-18 33-49 33-88 0-41-11-78-33-112Z" stroke="#B99A58" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="208" cy="505" r="38" fill="#E6D6A8"/>
+  <circle cx="682" cy="169" r="28" fill="#DDE7C7"/>
+</svg>

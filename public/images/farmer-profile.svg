@@ -1,0 +1,9 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="farmer profile placeholder">
+  <rect width="900" height="675" fill="#F8F4EA"/>
+  <path d="M0 462c137-53 294-68 471-45 166 21 309 5 429-49v307H0V462Z" fill="#DDE7C7"/>
+  <circle cx="450" cy="236" r="76" fill="#F3D6B1" stroke="#B99A58" stroke-width="7"/>
+  <path d="M334 304c73 52 159 52 232 0 52 42 83 102 93 180H241c10-78 41-138 93-180Z" fill="#667B48"/>
+  <path d="M314 217c89-82 181-82 272 0-45 21-90 31-136 31s-91-10-136-31Z" fill="#E6D6A8" stroke="#B99A58" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M378 228c-2-58 21-94 69-107M522 228c2-58-21-94-69-107" stroke="#B99A58" stroke-width="7" stroke-linecap="round"/>
+  <path d="M384 269c43 30 88 30 132 0" stroke="#8B6F3D" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="gift set placeholder">
+  <rect width="900" height="675" fill="#FFF9EC"/>
+  <rect x="214" y="196" width="472" height="300" rx="18" fill="#FFFDF7" stroke="#D8C9AA" stroke-width="8"/>
+  <path d="M450 196v300M214 296h472" stroke="#667B48" stroke-width="8"/>
+  <path d="M391 192c-58-47-28-112 35-69 25 18 24 47 24 69M509 192c58-47 28-112-35-69-25 18-24 47-24 69" stroke="#B99A58" stroke-width="8" stroke-linecap="round"/>
+  <path d="M312 395c31-36 61-36 92 0M496 395c31-36 61-36 92 0" stroke="#E6D6A8" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="900" height="675" viewBox="0 0 900 675" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rice bowl placeholder">
+  <rect width="900" height="675" fill="#FFF9EC"/>
+  <ellipse cx="450" cy="315" rx="220" ry="115" fill="#FFFDF7" stroke="#D8C9AA" stroke-width="8"/>
+  <path d="M260 324c14 132 92 211 190 211s176-79 190-211" fill="#F8F4EA"/>
+  <path d="M260 324c14 132 92 211 190 211s176-79 190-211" stroke="#667B48" stroke-width="8" stroke-linecap="round"/>
+  <path d="M319 283c50-56 112-84 187-84 50 0 97 14 141 41" stroke="#E6D6A8" stroke-width="36" stroke-linecap="round"/>
+  <path d="M349 251c72-42 144-48 216-17" stroke="#FFFDF7" stroke-width="32" stroke-linecap="round"/>
+  <path d="M357 431h186" stroke="#B99A58" stroke-width="7" stroke-linecap="round"/>
+</svg>

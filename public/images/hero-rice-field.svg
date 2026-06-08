@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rice field placeholder">
+  <rect width="1200" height="900" fill="#F8F4EA"/>
+  <path d="M0 325c142-70 275-74 400-12 132 65 265 62 400-8 135-70 268-68 400 6v589H0V325Z" fill="#DDE7C7"/>
+  <path d="M0 472c160-52 322-54 486-6 250 73 487 59 714-42v476H0V472Z" fill="#BFCB8E"/>
+  <path d="M0 630c170-56 330-58 480-5 240 85 480 77 720-24v299H0V630Z" fill="#E6D6A8"/>
+  <circle cx="957" cy="146" r="76" fill="#F6DFA3"/>
+  <path d="M130 782c92-54 194-89 306-104 203-27 379-2 529 75" stroke="#667B48" stroke-width="8" stroke-linecap="round"/>
+  <path d="M103 828c141-66 292-97 453-92 178 5 348 45 511 120" stroke="#354B2E" stroke-width="7" stroke-linecap="round" opacity=".75"/>
+  <g stroke="#354B2E" stroke-width="5" stroke-linecap="round">
+    <path d="M768 548c-18 64-16 130 6 197"/>
+    <path d="M793 563c-36 22-58 55-68 98"/>
+    <path d="M745 576c42 17 70 46 85 87"/>
+    <path d="M863 515c-20 76-18 153 7 230"/>
+    <path d="M892 535c-43 26-69 66-80 119"/>
+    <path d="M835 548c47 21 79 57 95 107"/>
+  </g>
+</svg>
