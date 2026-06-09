@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { assetPath } from "@/lib/paths";
 import { SITE } from "@/lib/site";
 
 const navItems = [
@@ -17,7 +18,7 @@ export function Header() {
         <div className="flex min-h-14 items-center justify-between gap-5 sm:gap-7">
           <Link href="/" className="focus-ring flex items-center gap-3 rounded-sm" aria-label={`${SITE.name} トップへ`}>
             <span className="grid h-11 w-11 shrink-0 place-items-center rounded-full border border-rice-gold/50 bg-white sm:h-12 sm:w-12">
-              <img src="/images/icon-rice.svg" alt="" className="h-6 w-6 sm:h-7 sm:w-7" />
+              <img src={assetPath("/images/icon-rice.svg")} alt="" className="h-6 w-6 sm:h-7 sm:w-7" />
             </span>
             <span className="font-serif text-2xl leading-tight text-rice-charcoal">{SITE.name}</span>
           </Link>

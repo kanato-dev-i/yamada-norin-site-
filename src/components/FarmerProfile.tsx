@@ -1,3 +1,4 @@
+import { assetPath } from "@/lib/paths";
 import { SectionTitle } from "@/components/SectionTitle";
 
 export function FarmerProfile() {
@@ -5,7 +6,7 @@ export function FarmerProfile() {
     <section className="bg-rice-paper py-16 sm:py-20">
       <div className="container-page grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
         <div className="overflow-hidden rounded-sm border border-rice-linen bg-white shadow-soft">
-          <img src="/images/farmer-profile.svg" alt="山口の米農家プロフィールの仮画像" className="aspect-[4/3] w-full object-cover" />
+          <img src={assetPath("/images/farmer-profile.svg")} alt="山口の米農家プロフィールの仮画像" className="aspect-[4/3] w-full object-cover" />
         </div>
         <div>
           <SectionTitle
